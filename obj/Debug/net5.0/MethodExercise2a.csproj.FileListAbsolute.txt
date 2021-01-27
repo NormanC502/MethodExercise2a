@@ -1,0 +1,16 @@
+C:\Users\Norman Calhoun\repos\Methods\MethodExercise2a\bin\Debug\net5.0\MethodExercise2a.exe
+C:\Users\Norman Calhoun\repos\Methods\MethodExercise2a\bin\Debug\net5.0\MethodExercise2a.deps.json
+C:\Users\Norman Calhoun\repos\Methods\MethodExercise2a\bin\Debug\net5.0\MethodExercise2a.runtimeconfig.json
+C:\Users\Norman Calhoun\repos\Methods\MethodExercise2a\bin\Debug\net5.0\MethodExercise2a.runtimeconfig.dev.json
+C:\Users\Norman Calhoun\repos\Methods\MethodExercise2a\bin\Debug\net5.0\MethodExercise2a.dll
+C:\Users\Norman Calhoun\repos\Methods\MethodExercise2a\bin\Debug\net5.0\ref\MethodExercise2a.dll
+C:\Users\Norman Calhoun\repos\Methods\MethodExercise2a\bin\Debug\net5.0\MethodExercise2a.pdb
+C:\Users\Norman Calhoun\repos\Methods\MethodExercise2a\obj\Debug\net5.0\MethodExercise2a.csprojAssemblyReference.cache
+C:\Users\Norman Calhoun\repos\Methods\MethodExercise2a\obj\Debug\net5.0\MethodExercise2a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norman Calhoun\repos\Methods\MethodExercise2a\obj\Debug\net5.0\MethodExercise2a.AssemblyInfoInputs.cache
+C:\Users\Norman Calhoun\repos\Methods\MethodExercise2a\obj\Debug\net5.0\MethodExercise2a.AssemblyInfo.cs
+C:\Users\Norman Calhoun\repos\Methods\MethodExercise2a\obj\Debug\net5.0\MethodExercise2a.csproj.CoreCompileInputs.cache
+C:\Users\Norman Calhoun\repos\Methods\MethodExercise2a\obj\Debug\net5.0\MethodExercise2a.dll
+C:\Users\Norman Calhoun\repos\Methods\MethodExercise2a\obj\Debug\net5.0\ref\MethodExercise2a.dll
+C:\Users\Norman Calhoun\repos\Methods\MethodExercise2a\obj\Debug\net5.0\MethodExercise2a.pdb
+C:\Users\Norman Calhoun\repos\Methods\MethodExercise2a\obj\Debug\net5.0\MethodExercise2a.genruntimeconfig.cache
